@@ -959,6 +959,7 @@ section,
 
 .about .content p {
   margin: 15px 0 30px 0;
+  text-align: justify;
   line-height: 24px;
 }
 
@@ -1015,6 +1016,15 @@ section,
   margin-bottom: 18px;
 }
 
+p{
+  text-align: justify;
+}
+
+.values .card p {
+  margin: 15px 0 30px 0;
+  text-align: justify;
+  line-height: 24px;
+}
 .values .card:hover {
   box-shadow: 0px 0 30px rgba(0, 0, 0, 0.1);
 }
